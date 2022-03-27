@@ -7,3 +7,7 @@ body {
 main {
     flex: 1 0 auto;
 }
+
+b {
+    color: rgb(168, 12, 12);
+}
